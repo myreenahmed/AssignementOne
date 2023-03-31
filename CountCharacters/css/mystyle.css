@@ -23,8 +23,8 @@ body {
 
 .stylingagain {
   font-family: "Times New Roman", serif;
-  border-radius: 10px;
-  border-color: black;
+  border-radius: 0px;
+  /* border-color: black; */
   color: #d3356a;
   padding: 15px 32px;
   text-align: center;
