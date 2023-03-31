@@ -1,4 +1,4 @@
-/* Style the body */
+/* Styling the body */
 body {
   font-family: "Times New Roman", serif;
   background-color: #fce4ec;
@@ -6,6 +6,7 @@ body {
   padding: 5;
 }
 
+/* Styling the count button */
 .stylingbutton {
   font-family: "Times New Roman", serif;
   border-radius: 10px;

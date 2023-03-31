@@ -1,3 +1,4 @@
+//defining function that counts characters
 function countChar() {
   let v = document.getElementById("characterinput").value;
   // trimming the spaces
