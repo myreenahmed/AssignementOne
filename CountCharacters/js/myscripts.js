@@ -7,6 +7,6 @@ function countChar() {
   document.getElementById("result").value = len;
   //ensuring user inputs data
   if (len <= 0) {
-    alert("Error!! Please enter your text!");
+    alert("Error: Please enter your text!");
   }
 }
