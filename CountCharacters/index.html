@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <script src="./js/myscripts.js"></script>
+    <link rel="stylesheet" href="./css/mystyle.css" />
+  </head>
+
+  <body>
+    <h1>Count Your Characters!</h1>
+    <h2>Please enter your text below</h2>
+    <form>
+      <p>
+        Total Number of characters:<input
+          type="text"
+          id="result"
+          size="10"
+          readonly
+        />
+      </p>
+      <textarea id="characterinput" rows="10" cols="35" wrap="soft"></textarea>
+      <p>
+        <input type="button" class="stylingbutton" value="Count" onClick="countChar()" />
+        <input type="reset" class="stylingagain" />
+      </p>
+    </form>
+  </body>
+</html>
